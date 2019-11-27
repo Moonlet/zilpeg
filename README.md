@@ -32,11 +32,11 @@ npm test
 ## About the project
 ![Zilpeg Architecture](docs/zilpeg-arch.jpg)
 
-What is done: 
+### What is done: 
 - a blockchain with basic accounts support and one token
 - simple transaction support between 2 accounts (without signature)
 
-What needs to be done:
+### What needs to be done:
 - enhance accounts support (add nonce, add standard for address format, etc.)
 - enhance transactions support (signature check, extra validations, etc.)
 - IBC support [https://cosmos.network/docs/spec/ibc/](https://cosmos.network/docs/spec/ibc/)

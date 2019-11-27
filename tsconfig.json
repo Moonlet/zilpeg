@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noEmit": false,
+        "strict": false,
+        "target": "es2018",
+        "resolveJsonModule": true,
+        "typeRoots": ["node_modules/@types"],
+        "skipLibCheck": true,
+        "noImplicitAny": false
+    },
+    "exclude": [
+        "node_modules",
+    ]
+}

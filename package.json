@@ -1,0 +1,20 @@
+{
+  "name": "zilliqa-peg",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "ts-node ./src/app.ts",
+    "test": "ts-node test.ts",
+    "state": "lotion state `node -e \"console.log(require('./app-instance.json').GCI)\"`"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lotion": "^0.4.26"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.2",
+    "lotion-cli": "0.0.7"
+  }
+}

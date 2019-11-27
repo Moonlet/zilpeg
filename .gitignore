@@ -1,0 +1,6 @@
+.history
+.vscode
+.tendermint
+package-lock.json
+node_modules
+app-instance.json

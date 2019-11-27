@@ -31,6 +31,7 @@ npm test
 
 ## About the project
 ![Zilpeg Architecture](docs/zilpeg-arch.jpg)
+
 What is done: 
 - a blockchain with basic accounts support and one token
 - simple transaction support between 2 accounts (without signature)
